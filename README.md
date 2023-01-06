@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @introverted0n3
 - 👀 I’m interested in ... DeFi, Python, Economics, and all things risk management
-- 🌱 I’m currently learning ...Python
+- 🌱 I’m currently learning ...Security Frameworks, AMS, and Bash
 - 💞️ I’m looking to collaborate on ...All things Blockchain
 - 📫 How to reach me ...kenestokes.dev@outlook.com
 
